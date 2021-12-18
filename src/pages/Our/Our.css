@@ -1,0 +1,36 @@
+.showcases {
+    background: url('https://blog.gotenzo.com/hs-fs/hubfs/5%20gif.gif?width=853&name=5%20gif.gif')
+      no-repeat center/cover;
+    height: 650px;
+    background-attachment: fixed;
+  }
+  .showcases.showcase-overlay {
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 650px;
+    text-align: center;
+
+  }
+  
+  .showcases .showcase-overlay h1 {
+    font-size: 50px;
+    padding-bottom: 20px;
+  color: orange;
+  background-color: purple;
+  padding: 5px 15px;
+   border-radius: 50%;
+  }
+ .shadow{
+   border: 2px solid blue;
+   box-shadow: 16px 16px 15px solid goldenrod;
+   color: black;
+
+ }
+ .shadow:hover{
+   box-shadow: 30px 30px 30px solid slateblue;
+
+   border: 7px solid blueviolet;
+ }
