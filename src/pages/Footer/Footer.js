@@ -11,7 +11,7 @@ const Footer = () => {
        <Row>
          <Col md={3} sm={12}>
            <h3>ABOUT US</h3> <hr />
-           <p className="pt-4">Duis leo justo, condimentum at purus eu,Aenean sed dolor sem. Etiam massa libero, auctor vitae egestas et, accumsan quis nunc.Duis leo justo, condimentum at purus eu, posuere pretium tellus..</p>
+           <p className="pt-4 fs-bold">Duis leo justo, condimentum at purus eu,Aenean sed dolor sem. Etiam massa libero, auctor vitae egestas et, accumsan quis nunc.Duis leo justo, condimentum at purus eu, posuere pretium tellus..</p>
          </Col>
          <Col md={3} sm={12}> 
            <h3>Feel Hunger! Order Your Like Food.</h3> <hr />
